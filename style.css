@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+    font-style: bold;
+    font-family:serif; 
+     color: red;
+     padding-top: 5%;
+     padding-bottom: 3%;
+}
+body{
+    background-image: url("download.jpg");
+   background-blend-mode:color-dodge;
+   background-attachment: fixed;
+   background-size: cover;
+   scroll-behavior: smooth;
+}   
+p
+{
+  font-size:xx-large;
+  font-style: bold;
+  font-family:cursive;
+  color: aliceblue;
+  text-align: center;
+  padding-top: 15px;
+ 
+}
